@@ -1,4 +1,4 @@
-### Data Visualizations with Python, Jupyter Notebooks
+### Data Visualizations with Python
 
 List of libraries used:
 * Matplotlib
